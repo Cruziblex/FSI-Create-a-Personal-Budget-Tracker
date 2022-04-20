@@ -2,4 +2,9 @@ let weeklyExpenses = 0
 let monthlyExpenses = 0
 let annualExpenses = 0
 
-// Your Code Here
+let weeklyQuestions = [];
+let monthlyQuestions = [];
+let annualQuestions = [];
+
+let answer = parseFloat(window.prompt(weeklyQuestions[0]))
+
